@@ -1,0 +1,454 @@
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-3bcl",{"micros":90674,"calls":["discord-sessions-green-prd-2-151",{"micros":89599,"calls":["start_session",{"micros":61497,"calls":["discord-api-d574c8474-2rmcl",{"micros":54541,"calls":["get_user",{"micros":8913},"add_authorized_ip",{"micros":3336},"get_guilds",{"micros":11296},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":26641,"calls":[]}]}]}] (Session ID: 343c12bf9109b270ec412abe6c5da70f).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+INFO:root:Une requete a été faite pour localiser l'IP 8.8.8.8.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:root:La multiplication egyptienne a été réalisé avec les nombres 12 et 4.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-kdgf",{"micros":179363,"calls":["discord-sessions-green-prd-2-146",{"micros":178457,"calls":["start_session",{"micros":90568,"calls":["discord-api-55b85d9f46-5bhmn",{"micros":81672,"calls":["get_user",{"micros":15650},"add_authorized_ip",{"micros":5661},"get_guilds",{"micros":20221},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":68998,"calls":[]}]}]}] (Session ID: f135672c31774fa3ba2ee0a23e015c6c).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+INFO:root:Une requete a été faite pour localiser l'IP 8.8.8.8.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur IP invalide
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-qg77",{"micros":70947,"calls":["discord-sessions-green-prd-2-123",{"micros":66800,"calls":["start_session",{"micros":36189,"calls":["discord-api-55b85d9f46-hxd2s",{"micros":31948,"calls":["get_user",{"micros":7268},"add_authorized_ip",{"micros":1348},"get_guilds",{"micros":3668},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":30022,"calls":[]}]}]}] (Session ID: 68ba4e700e8fa3b09e224eeb216fd276).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-509l",{"micros":194873,"calls":["discord-sessions-green-prd-2-136",{"micros":192359,"calls":["start_session",{"micros":180062,"calls":["discord-api-55b85d9f46-kk458",{"micros":168418,"calls":["get_user",{"micros":45035},"add_authorized_ip",{"micros":13547},"get_guilds",{"micros":41853},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 1bbf595e1a74a64927959862f204180f).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-vf2g",{"micros":68900,"calls":["discord-sessions-green-prd-2-49",{"micros":68035,"calls":["start_session",{"micros":47946,"calls":["discord-api-55b85d9f46-9lrpm",{"micros":42205,"calls":["get_user",{"micros":11646},"add_authorized_ip",{"micros":2019},"get_guilds",{"micros":3833},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10630,"calls":[]}]}]}] (Session ID: ca01b0ef01561ce4f419c46ebf56f6d0).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-dnd0",{"micros":98095,"calls":["discord-sessions-green-prd-2-64",{"micros":96575,"calls":["start_session",{"micros":42309,"calls":["discord-api-55b85d9f46-9626c",{"micros":38236,"calls":["get_user",{"micros":7073},"add_authorized_ip",{"micros":1345},"get_guilds",{"micros":11445},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":47967,"calls":[]}]}]}] (Session ID: 7a22706d9efdfa8abdbd90264e839085).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur IP invalide --> 8. 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-xd6v",{"micros":112854,"calls":["discord-sessions-green-prd-2-17",{"micros":111844,"calls":["start_session",{"micros":78280,"calls":["discord-api-55b85d9f46-5bt7c",{"micros":74703,"calls":["get_user",{"micros":12921},"add_authorized_ip",{"micros":8769},"get_guilds",{"micros":14920},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":19097,"calls":[]}]}]}] (Session ID: 73e61fe0fab15c673fb18d198a2f3a12).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-3bcl",{"micros":43378,"calls":["discord-sessions-green-prd-2-33",{"micros":42387,"calls":["start_session",{"micros":39600,"calls":["discord-api-55b85d9f46-6bfcd",{"micros":35238,"calls":["get_user",{"micros":7374},"add_authorized_ip",{"micros":3097},"get_guilds",{"micros":3837},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2031,"calls":[]}]}]}] (Session ID: f9ada2af2bc4e2e7474d5080868b2787).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-7wdd",{"micros":163535,"calls":["discord-sessions-green-prd-2-106",{"micros":162064,"calls":["start_session",{"micros":126778,"calls":["discord-api-55b85d9f46-8khmw",{"micros":115243,"calls":["get_user",{"micros":14563},"add_authorized_ip",{"micros":5090},"get_guilds",{"micros":26985},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14546,"calls":[]}]}]}] (Session ID: 1faefb089ad9191fee12ef060bbdbd4c).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-nhnf",{"micros":85191,"calls":["discord-sessions-green-prd-2-81",{"micros":82977,"calls":["start_session",{"micros":38384,"calls":["discord-api-55b85d9f46-cb5wg",{"micros":32739,"calls":["get_user",{"micros":6394},"add_authorized_ip",{"micros":3211},"get_guilds",{"micros":4593},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":35097,"calls":[]}]}]}] (Session ID: 5f4045df6a61e379350814b4ea3c6adb).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu d'argument donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-g692",{"micros":205001,"calls":["discord-sessions-green-prd-2-86",{"micros":204093,"calls":["start_session",{"micros":91454,"calls":["discord-api-55b85d9f46-d5thn",{"micros":81064,"calls":["get_user",{"micros":11998},"add_authorized_ip",{"micros":7653},"get_guilds",{"micros":11941},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":82245,"calls":[]}]}]}] (Session ID: 152adae7f4e6d582a388bbfde5cb7d02).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-kg1z",{"micros":107485,"calls":["discord-sessions-green-prd-2-148",{"micros":105912,"calls":["start_session",{"micros":53599,"calls":["discord-api-55b85d9f46-62g4g",{"micros":48197,"calls":["get_user",{"micros":7644},"add_authorized_ip",{"micros":7240},"get_guilds",{"micros":4430},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5809,"calls":[]}]}]}] (Session ID: 0f1c8a662183abf383647a76b7926ea9).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:root:La multiplication egyptienne a été réalisé avec les nombres 12 et 12.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur IP invalide --> 1 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-5lb3",{"micros":121838,"calls":["discord-sessions-green-prd-2-60",{"micros":113307,"calls":["start_session",{"micros":104580,"calls":["discord-api-55b85d9f46-s8f2m",{"micros":100500,"calls":["get_user",{"micros":35142},"add_authorized_ip",{"micros":4085},"get_guilds",{"micros":6863},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2977,"calls":[]}]}]}] (Session ID: b98dbd06de28ff83c43c848163f81442).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-39z2",{"micros":48482,"calls":["discord-sessions-green-prd-2-127",{"micros":47108,"calls":["start_session",{"micros":46195,"calls":["discord-api-55b85d9f46-vncql",{"micros":41568,"calls":["get_user",{"micros":10514},"add_authorized_ip",{"micros":1467},"get_guilds",{"micros":6083},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":167,"calls":[]}]}]}] (Session ID: bf20f2647897833183b45edd09adcf9d).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-rjn7",{"micros":107230,"calls":["discord-sessions-green-prd-2-75",{"micros":105207,"calls":["start_session",{"micros":97357,"calls":["discord-api-55b85d9f46-xsp2k",{"micros":89587,"calls":["get_user",{"micros":23912},"add_authorized_ip",{"micros":8552},"get_guilds",{"micros":11664},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7215,"calls":[]}]}]}] (Session ID: 5aa7f2320691ac789e78077cfa65ba42).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-gswn",{"micros":134978,"calls":["discord-sessions-green-prd-2-75",{"micros":133507,"calls":["start_session",{"micros":129104,"calls":["discord-api-55b85d9f46-lx575",{"micros":123108,"calls":["get_user",{"micros":34676},"add_authorized_ip",{"micros":1919},"get_guilds",{"micros":20308},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3828,"calls":[]}]}]}] (Session ID: 4cf9e74e1fd8a5b58c148730779d9847).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-lgs9",{"micros":72175,"calls":["discord-sessions-green-prd-2-161",{"micros":70500,"calls":["start_session",{"micros":35563,"calls":["discord-api-55b85d9f46-scsbp",{"micros":32386,"calls":["get_user",{"micros":10724},"add_authorized_ip",{"micros":1242},"get_guilds",{"micros":4695},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":34353,"calls":[]}]}]}] (Session ID: 133692707701a31b6bb37f42769a4d3c).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-bnhv",{"micros":191771,"calls":["discord-sessions-green-prd-2-49",{"micros":190630,"calls":["start_session",{"micros":131753,"calls":["discord-api-55b85d9f46-z6knz",{"micros":116942,"calls":["get_user",{"micros":17482},"add_authorized_ip",{"micros":2721},"get_guilds",{"micros":34518},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":52675,"calls":[]}]}]}] (Session ID: 91f768f97d5a1773ab51655dc2cc08a2).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-524s",{"micros":156388,"calls":["discord-sessions-green-prd-2-131",{"micros":154965,"calls":["start_session",{"micros":100089,"calls":["discord-api-55b85d9f46-cdrzs",{"micros":92897,"calls":["get_user",{"micros":11868},"add_authorized_ip",{"micros":6174},"get_guilds",{"micros":18495},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":54036,"calls":[]}]}]}] (Session ID: e1bb99904b315904f3621de8f16d6844).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-dcfw",{"micros":87769,"calls":["discord-sessions-green-prd-2-70",{"micros":85685,"calls":["start_session",{"micros":62258,"calls":["discord-api-55b85d9f46-rk9cn",{"micros":54585,"calls":["get_user",{"micros":12573},"add_authorized_ip",{"micros":1748},"get_guilds",{"micros":4818},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 16ec641cefd48dffeb070e88a6799d7e).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-hgg0",{"micros":72509,"calls":["discord-sessions-green-prd-2-168",{"micros":71586,"calls":["start_session",{"micros":41572,"calls":["discord-api-55b85d9f46-gzd8x",{"micros":37054,"calls":["get_user",{"micros":8278},"add_authorized_ip",{"micros":1441},"get_guilds",{"micros":4383},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":18125,"calls":[]}]}]}] (Session ID: 6877153ec33740ea0bb4e9cacc81287c).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 3.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-r93l",{"micros":204324,"calls":["discord-sessions-green-prd-2-106",{"micros":202498,"calls":["start_session",{"micros":131778,"calls":["discord-api-55b85d9f46-wxk9f",{"micros":127335,"calls":["get_user",{"micros":20919},"add_authorized_ip",{"micros":8014},"get_guilds",{"micros":28505},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":25285,"calls":[]}]}]}] (Session ID: 866653f02ffd93a01a82b4d59b516ff6).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+INFO:root:Une requete a été faite pour localiser l'IP 8.8.8.8.
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-h93c",{"micros":120217,"calls":["discord-sessions-green-prd-2-62",{"micros":118827,"calls":["start_session",{"micros":87107,"calls":["discord-api-55b85d9f46-tv6w2",{"micros":84003,"calls":["get_user",{"micros":7239},"add_authorized_ip",{"micros":1182},"get_guilds",{"micros":57837},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":21064,"calls":[]}]}]}] (Session ID: 9eef3ad4300317738eea4488b837a3c1).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:La suite de Syracuse a été réalisé avec le nombre 12.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !help
+
+ERROR:root:Erreur de syntaxe, un ou plusieurs arguments donné dans une commande qui n'en prend pas 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !syracuse
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:root:La multiplication egyptienne a été réalisé avec les nombres 12 et 4.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !mult_egypt
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+INFO:root:Une requete a été faite pour localiser l'IP 8.8.8.8.
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur IP invalide --> 12.1.830.255 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur IP invalide --> je_suis_une_IP 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-r93l",{"micros":278857,"calls":["discord-sessions-green-prd-2-169",{"micros":276388,"calls":["start_session",{"micros":239590,"calls":["discord-api-55b85d9f46-flcw4",{"micros":217380,"calls":["get_user",{"micros":27334},"add_authorized_ip",{"micros":21407},"get_guilds",{"micros":35129},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":22201,"calls":[]}]}]}] (Session ID: 16b4daf5651477295220d5578940717e).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+INFO:root:0x4b696c69616e#7844 a utilisé la commande !iplog
+
+ERROR:root:Erreur de syntaxe, trop peu ou trop d'arguments donné 
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-hlxc",{"micros":121800,"calls":["discord-sessions-green-prd-2-134",{"micros":119403,"calls":["start_session",{"micros":47974,"calls":["discord-api-55b85d9f46-mxqzs",{"micros":41774,"calls":["get_user",{"micros":8070},"add_authorized_ip",{"micros":1892},"get_guilds",{"micros":6639},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":19391,"calls":[]}]}]}] (Session ID: ff58177bc8651a191c2f862d06345bed).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-kg1z",{"micros":124888,"calls":["discord-sessions-green-prd-2-173",{"micros":122105,"calls":["start_session",{"micros":78639,"calls":["discord-api-55b85d9f46-jzwhm",{"micros":71933,"calls":["get_user",{"micros":9179},"add_authorized_ip",{"micros":4338},"get_guilds",{"micros":15870},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":27887,"calls":[]}]}]}] (Session ID: 4a74f6154de68ad39e7da7497773b315).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-m7mt",{"micros":180347,"calls":["discord-sessions-green-prd-2-49",{"micros":178538,"calls":["start_session",{"micros":131872,"calls":["discord-api-55b85d9f46-pc8gc",{"micros":118963,"calls":["get_user",{"micros":15501},"add_authorized_ip",{"micros":4470},"get_guilds",{"micros":51324},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":45780,"calls":[]}]}]}] (Session ID: b45a5440c18cbebfab5e1a8d64861d40).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-zsdk",{"micros":110451,"calls":["discord-sessions-green-prd-2-166",{"micros":105305,"calls":["start_session",{"micros":75902,"calls":["discord-api-55b85d9f46-bxngx",{"micros":71269,"calls":["get_user",{"micros":16019},"add_authorized_ip",{"micros":3538},"get_guilds",{"micros":9718},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":14961,"calls":[]}]}]}] (Session ID: a46f36c08ae03c3ef6c5c2e33b1e653e).
+INFO:root:Big_Fat_Bot#5181 s'est connecté
+
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.
